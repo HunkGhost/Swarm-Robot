@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lin/argos3/argos3-examples-master/build/controllers/epuck_obstacleavoidance/epuck_obstacleavoidance_autogen/mocs_compilation.cpp
+
+/home/lin/argos3/argos3-examples-master/controllers/epuck_obstacleavoidance/epuck_obstacleavoidance.cpp
+epuck_obstacleavoidance.h
+/home/lin/argos3/argos3-examples-master/controllers/epuck_obstacleavoidance/epuck_obstacleavoidance.h
+argos3/core/utility/configuration/argos_configuration.h
+-
+
+/home/lin/argos3/argos3-examples-master/controllers/epuck_obstacleavoidance/epuck_obstacleavoidance.h
+argos3/core/control_interface/ci_controller.h
+-
+argos3/plugins/robots/generic/control_interface/ci_differential_steering_actuator.h
+-
+argos3/plugins/robots/generic/control_interface/ci_proximity_sensor.h
+-
+
